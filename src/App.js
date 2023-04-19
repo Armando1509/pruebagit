@@ -12,7 +12,7 @@ function App() {
        <h1>esto es una prueba</h1>
       <h1>prueba 2</h1>
       <div>
-        <h4>chau</h4>
+        <h4>chau   </h4>
       </div>
 
     </div>
